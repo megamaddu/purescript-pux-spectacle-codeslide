@@ -1,0 +1,22 @@
+{
+  "name": "purescript-pux-spectacle-codeslide",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spicydonuts/purescript-pux-spectacle-codeslide.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-pux": "^5.0.3",
+    "purescript-pux-spectacle": "^1.2.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^1.0.0"
+  }
+}
